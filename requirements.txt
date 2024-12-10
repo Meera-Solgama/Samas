@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-scikit-learn>=0.24
+scikit-learn>=24.3.1
 tensorflow
-os
 openpyxl
